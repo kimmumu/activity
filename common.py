@@ -1,3 +1,1 @@
-b = "mumu"
-a = "maxueqin"
-c = "add"
+a = "mumu"
